@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KC-Louise/kc-task-tracker.github.io/static/css/main.0ba60822.css",
+    "main.js": "/KC-Louise/kc-task-tracker.github.io/static/js/main.828bd8f4.js",
+    "static/js/787.226f4826.chunk.js": "/KC-Louise/kc-task-tracker.github.io/static/js/787.226f4826.chunk.js",
+    "index.html": "/KC-Louise/kc-task-tracker.github.io/index.html",
+    "main.0ba60822.css.map": "/KC-Louise/kc-task-tracker.github.io/static/css/main.0ba60822.css.map",
+    "main.828bd8f4.js.map": "/KC-Louise/kc-task-tracker.github.io/static/js/main.828bd8f4.js.map",
+    "787.226f4826.chunk.js.map": "/KC-Louise/kc-task-tracker.github.io/static/js/787.226f4826.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ba60822.css",
+    "static/js/main.828bd8f4.js"
+  ]
+}
